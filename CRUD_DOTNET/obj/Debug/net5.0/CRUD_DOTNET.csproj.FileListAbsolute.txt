@@ -1,0 +1,5 @@
+C:\Users\guiandrei\Desktop\REPO\DesafioDIO\App_cadastro_series\CRUD_DOTNET\obj\Debug\net5.0\CRUD_DOTNET.csproj.AssemblyReference.cache
+C:\Users\guiandrei\Desktop\REPO\DesafioDIO\App_cadastro_series\CRUD_DOTNET\obj\Debug\net5.0\CRUD_DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiandrei\Desktop\REPO\DesafioDIO\App_cadastro_series\CRUD_DOTNET\obj\Debug\net5.0\CRUD_DOTNET.AssemblyInfoInputs.cache
+C:\Users\guiandrei\Desktop\REPO\DesafioDIO\App_cadastro_series\CRUD_DOTNET\obj\Debug\net5.0\CRUD_DOTNET.AssemblyInfo.cs
+C:\Users\guiandrei\Desktop\REPO\DesafioDIO\App_cadastro_series\CRUD_DOTNET\obj\Debug\net5.0\CRUD_DOTNET.csproj.CoreCompileInputs.cache
